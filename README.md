@@ -1,5 +1,16 @@
 # Awesome-Unsupervised-Person-Re-identification[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Contributing :punch:
+
+Please help contribute this list by contacting [me](iminliu@yeah.net) or add [pull request](https://github.com/Yimin-Liu/Awesome-Unsupervised-Person-Re-identification/pulls) :heart_eyes:
+
+Markdown format:
+```markdown
+- References. 
+  [[pdf]](link) 
+  [[code]](link)
+```
+
 ## KeyWords
 
     Unsupervised Person Reidentification,Tranfer Learning,Domain Adaptation,Clustering
@@ -32,7 +43,7 @@
     - [Clustering](#Clustering-based)
 
 ## Benchmarks
-### UDA re-ID
+#### UDA re-ID
 - [DukeMTMC-reID->Market-1501](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-duke-to)
 - [Market-1501->DukeMTMC-reID](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to)
 - [Market-1501->MSMT17](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to-1)
@@ -40,12 +51,12 @@
 - [MSMT17->DukeMTMC-reID](https://www.paperswithcode.com/sota/unsupervised-person-re-identification-on-6)
 - [MSMT17->Market-1501](https://www.paperswithcode.com/sota/unsupervised-person-re-identification-on-7)
 
-### Pure re-ID bechmarks
+#### Pure re-ID bechmarks
 - [Market-1501]()
 - [DukeMTMC-reID]()
 
 ## Paper list
-- [Papers Updated June 16.2021](#Papers-Updated-June-16.2021)
+- [The latest paper released in 2021](#The-latest-paper-released-in-2021)
 - [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
     - [Image-style transfer based](#Domain-style-transfer-or-Data-Augmentation)
     - [Representation learning based](#Representation-learning-based)
@@ -57,7 +68,7 @@
 - [Other Unsupervised Learning research on Computer Vision](#Other-Unsupervised-Learning-research-on-Computer-Vision)   
 
 
-### Papers Updated June 16.2021
+### The latest paper released in 2021
 
 - **Unsupervised Pre-Training for Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.pdf)](CVPR2021)
 
@@ -100,7 +111,7 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Deng, Weijian, et al. "**Image-image domain adaptation with preserved self-similarity and domain-dissimilarity for person re-identification**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf)]
 
-
+- Chen, Yanbei, Xiatian Zhu, and Shaogang Gong. "**Instance-guided context rendering for cross-domain person re-identification**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Instance-Guided_Context_Rendering_for_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf)]
 
 
 #### Representation learning based
@@ -122,25 +133,21 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Lv, Jianming, et al. "**Unsupervised cross-dataset person re-identification by transfer learning of spatial-temporal patterns**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)][[Code](https://github.com/ahangchen/TFusion)]
 
-- Li, Yu-Jhe, et al. "**Adaptation and re-identification network: An unsupervised deep transfer learning approach to person re-identification**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Li_Adaptation_and_Re-Identification_CVPR_2018_paper.pdf)]
-
-- Bak, Slawomir, Peter Carr, and Jean-Francois Lalonde. "**Domain adaptation through synthesis for unsupervised person re-identification**." Proceedings of the European Conference on Computer Vision (ECCV). 2018.[[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)]
-
-- Li, Yu-Jhe, et al. "**Adaptation and re-identification network: An unsupervised deep transfer learning approach to person re-identification**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Li_Adaptation_and_Re-Identification_CVPR_2018_paper.pdf)]
-
 - Geng, Mengyue, et al. "**Deep transfer learning for person re-identification**." arXiv preprint arXiv:1611.05244 (2016).[[Paper](https://arxiv.org/pdf/1611.05244)]
 
-- Peng, Peixi, et al. "**Unsupervised cross-dataset transfer learning for person re-identification**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Peng_Unsupervised_Cross-Dataset_Transfer_CVPR_2016_paper.pdf)]
+- Peng, Peixi, et al. "**Unsupervised cross-dataset transfer learning for person re-identification**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Peng_Unsupervised_Cross-Dataset_Transfer_CVPR_2016_paper.pdf)]//？
 
 - Ma, Andy J., et al. "**Cross-domain person reidentification using domain adaptation ranking svms**." IEEE transactions on image processing 24.5 (2015): 1599-1613.[[Paper](https://ieeexplore.ieee.org/iel7/83/4358840/07018030.pdf)]
 
-- Chen, Yanbei, Xiatian Zhu, and Shaogang Gong. "**Instance-guided context rendering for cross-domain person re-identification**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Instance-Guided_Context_Rendering_for_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf)]
+
 
 - Huang, Houjing, et al. "**Eanet: Enhancing alignment for cross-domain person re-identification**." arXiv preprint arXiv:1812.11369 (2018).[[Paper](https://arxiv.org/pdf/1812.11369)][[Code](https://github.com/huanghoujing/EANet)]
 
-- Zhang, Xinyu, et al. "**Self-training with progressive augmentation for unsupervised cross-domain person re-identification**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf)]
+- Zhang, Xinyu, et al. "**Self-training with progressive augmentation for unsupervised cross-domain person re-identification**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf)]//？
 
 - Wu, Jinlin, et al. "**Unsupervised graph association for person re-identification**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Unsupervised_Graph_Association_for_Person_Re-Identification_ICCV_2019_paper.pdf)][[Code](https://github.com/yichuan9527/Unsupervised-Graph-Association-for-Person-Re-identification)]
+
+- Lin, Shan, et al. "**Multi-task mid-level feature alignment network for unsupervised cross-dataset person re-identification**." arXiv preprint arXiv:1807.01440 (2018).[[Paper](https://arxiv.org/pdf/1807.01440)]
 
 #### Target domain clustering
 
@@ -156,33 +163,35 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Wu, Jinlin, et al. "**Clustering and dynamic sampling based unsupervised domain adaptation for person re-identification**." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019.[[Paper](http://www.cbsr.ia.ac.cn/users/zlei/papers/JLWU-ICME-2019.pdf)]
 
-- **Group-aware Label Transfer for Domain Adaptive Person Re-identification**(CVPR2021)[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf)]
-
 - Yang, Fengxiang, et al. "**Asymmetric co-teaching for unsupervised cross-domain person re-identification**." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 07. 2020.[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/6950/6804)]
 
-- Lin, Shan, et al. "**Multi-task mid-level feature alignment network for unsupervised cross-dataset person re-identification**." arXiv preprint arXiv:1807.01440 (2018).[[Paper](https://arxiv.org/pdf/1807.01440)]
+- Ge, Yixiao, Dapeng Chen, and Hongsheng Li. "**Mutual mean-teaching: Pseudo label refinery for unsupervised domain adaptation on person re-identification**." arXiv preprint arXiv:2001.01526 (2020).[[Paper](https://arxiv.org/pdf/2001.01526)]
 
 - Li, Jianing, and Shiliang Zhang. "**Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification**." European Conference on Computer Vision. Springer, Cham, 2020.[[Paper](https://arxiv.org/pdf/2007.10854)]
+
+- Zhang, Minying, et al. "**Unsupervised Domain Adaptation for Person Re-identification via Heterogeneous Graph Alignment**." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 4. 2021.[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAAI2021)
+
+- Zheng, Kecheng, et al. "**Group-aware label transfer for domain adaptive person re-identification**." (CVPR2021)[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf)]
+
+- Jin, Xin, et al. "**Global distance-distributions separation for unsupervised person re-identification**." European Conference on Computer Vision. Springer, Cham, 2020.[[Paper](https://arxiv.org/pdf/2006.00752)]
 
 ### Pure re-ID
 
 #### Handcraft feature
 
-- L. Zheng, L. Shen, L. Tian, S. Wang, J. Wang, and Q. Tian.**Scalable person re-identiﬁcation: A benchmark**. In ICCV, 2015.
-UMDL（2016）
+- Zheng, Liang, et al. "**Scalable person re-identification: A benchmark**." Proceedings of the IEEE international conference on computer vision. 2015.[[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)]
 
-- S. Liao, Y. Hu, X. Zhu, and S. Z. Li, “**Person reidentiﬁcation by local maximal occurrence representation and metric learning**.” in CVPR, 2015, pp. 21972206.
+- S. Liao, Y. Hu, X. Zhu, and S. Z. Li, "**Person reidentiﬁcation by local maximal occurrence representation and metric learning**." in CVPR, 2015, pp. 21972206.[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf)]
 
 - Ma, Bingpeng, Yu Su, and Frédéric Jurie. "**Bicov: a novel image representation for person re-identification and face verification**." British Machive Vision Conference. 2012.[[Paper](https://hal.archives-ouvertes.fr/hal-00806112/file/12_bmvc-person-reid.pdf)]
 
-- G. Lisanti, I. Masi, A. D. Bagdanov, and A. Del Bimbo, “**Person reidentiﬁcation by iterative re-weighted sparse ranking**,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 37, no. 8, pp. 1629–1642, 2015.     ？
+- G. Lisanti, I. Masi, A. D. Bagdanov, and A. Del Bimbo, "**Person reidentiﬁcation by iterative re-weighted sparse ranking**," IEEE Trans. Pattern Anal. Mach. Intell., vol. 37, no. 8, pp. 1629–1642, 2015.[[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.7570&rep=rep1&type=pdf)]
 
-- E. Kodirov, T. Xiang, Z. Fu, and S. Gong, “**Person re-identiﬁcation by unsupervised l 1 graph learning**,” in Proc. Eur. Conf. Comput. Vis., 2016, pp. 178–195.   ？
+- E. Kodirov, T. Xiang, Z. Fu, and S. Gong, "**Person re-identiﬁcation by unsupervised $\ell _1 $ graph learning**," in Proc. Eur. Conf. Comput. Vis., 2016, pp. 178–195.[[Paper](http://www.eecs.qmul.ac.uk/~sgg/papers/KodirovEtAl_ECCV2016.pdf)]
 
+- Yang, Yang, et al. "**Unsupervised learning of multi-level descriptors for person re-identification**." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 31. No. 1. 2017.[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11224/11083)]
 
 #### Clustering-based
-
-- Ge, Yixiao, Dapeng Chen, and Hongsheng Li. "**Mutual mean-teaching: Pseudo label refinery for unsupervised domain adaptation on person re-identification**." arXiv preprint arXiv:2001.01526 (2020).[[Paper](https://arxiv.org/pdf/2001.01526)]
 
 - Wang, Dongkai, and Shiliang Zhang. "**Unsupervised person re-identification via multi-label classification**." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.[[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Unsupervised_Person_Re-Identification_via_Multi-Label_Classification_CVPR_2020_paper.pdf)]
 
@@ -196,8 +205,15 @@ UMDL（2016）
 - Ye, Mang, et al. "**Dynamic label graph matching for unsupervised video re-identification.**" Proceedings of the IEEE international conference on computer vision. 2017.[[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ye_Dynamic_Label_Graph_ICCV_2017_paper.pdf)]
 
 
-- Jin, Xin, et al. "**Global distance-distributions separation for unsupervised person re-identification**." European Conference on Computer Vision. Springer, Cham, 2020.[[Paper](https://arxiv.org/pdf/2006.00752)]
 
+
+- Zeng, Kaiwei, et al. "**Hierarchical clustering with hard-batch triplet loss for person re-identification**." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.[[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Hierarchical_Clustering_With_Hard-Batch_Triplet_Loss_for_Person_Re-Identification_CVPR_2020_paper.pdf)]
+
+- Xuan, Shiyu, and Shiliang Zhang. "**Intra-Inter Camera Similarity for Unsupervised Person Re-Identification**." arXiv preprint arXiv:2103.11658 (2021).[[Paper](https://arxiv.org/pdf/2103.11658)]
+
+- Wang, Menglin, et al. "**Camera-aware Proxies for Unsupervised Person Re-Identification**." arXiv preprint arXiv:2012.10674 (2020).[[Paper](https://arxiv.org/pdf/2012.10674)]
+
+- Yang, Fengxiang, et al. "**Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification**." arXiv preprint arXiv:2103.04618 (2021).[[Paper](https://arxiv.org/pdf/2103.04618)]
 
 #### Tracklet based
 
@@ -215,37 +231,20 @@ UMDL（2016）
 
 -	Xie, Qiaokang, et al. "**Progressive Unsupervised Person Re-identification by Tracklet Association with Spatio-Temporal Regularization**." IEEE Transactions on Multimedia
 
-### Other methods like Metric Learning，Dictionary Learning and Salience Learning
 
-- Khan, Furqan M., and Francois Bremond. "**Unsupervised data association for metric learning in the context of multi-shot person re-identification**." 2016 13th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS). IEEE, 2016.[[Paper](http://www-sop.inria.fr/members/Francois.Bremond/Postscript/FurqanAVSS2016.pdf)]
+### Other Unsupervised Learning research on Computer Vision or re-ID related works
 
-- Wang, Hanxiao, et al. "**Towards unsupervised open-set person re-identification**." 2016 IEEE International Conference on Image Processing (ICIP). IEEE, 2016.[[Paper](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/18790/Gong%20Towards%20unsupervised%20open-set%202016%20Accepted.pdf?sequence=1&isAllowed=y)]
+- Fernando, Basura, et al. "**Unsupervised visual domain adaptation using subspace alignment**." Proceedings of the IEEE international conference on computer vision. 2013.[[Paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Fernando_Unsupervised_Visual_Domain_2013_ICCV_paper.pdf)]
 
-- Kodirov, Elyor, Tao Xiang, and Shaogang Gong. "**Dictionary learning with iterative laplacian regularisation for unsupervised person re-identification**." BMVC. Vol. 3. 2015.[[Paper](http://www.bmva.org/bmvc/2015/papers/paper044/paper044.pdf)]
+- Gong, Boqing, et al. "**Geodesic flow kernel for unsupervised domain adaptation**." 2012 IEEE conference on computer vision and pattern recognition. IEEE, 2012.[[Paper](https://www.cs.utexas.edu/users/grauman/papers/subspace-cvpr2012.pdf)]
 
-- Wang, Hanxiao, Shaogang Gong, and Tao Xiang. "**Unsupervised learning of generative topic saliency for person re-identification**." (2014).[[Paper](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/6442/GONGUnsupervisedLearning2014.pdf?sequence=2)]
+- Gopalan, Raghuraman, Ruonan Li, and Rama Chellappa. "**Domain adaptation for object recognition: An unsupervised approach**." 2011 international conference on computer vision. IEEE, 2011.[[Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.300.3323&rep=rep1&type=pdf)]
 
-
-- Liu, Xiao, et al. "**Semi-supervised coupled dictionary learning for person re-identification**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2014.[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Liu_Semi-Supervised_Coupled_Dictionary_2014_CVPR_paper.pdf)]
-
-- Zhao, Rui, Wanli Ouyang, and Xiaogang Wang. "**Unsupervised salience learning for person re-identification**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2013.[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zhao_Unsupervised_Salience_Learning_2013_CVPR_paper.pdf)]
-
-- P. Peng, T. Xiang, Y. Wang, P. Massimiliano, S. Gong, T. Huang, and Y. Tian, “**Unsupervised cross-dataset transfer learning for person re-identiﬁcation**,” in CVPR, 2016, pp. 1306–1315.
-
-
-### Other Unsupervised Learning research on Computer Vision
-
-- B. Fernando, A. Habrard, M. Sebban, and T. Tuytelaars. **Unsupervised visual domain adaptation using subspace alignment**. In ICCV, 2013.
-
-- B. Gong, Y. Shi, F. Sha, and K. Grauman. **Geodesic ﬂow kernel for unsupervised domain adaptation**. In CVPR, 2012.
-
-- R. Gopalan, R. Li, and R. Chellappa. **Domain adaptation for object recognition: An unsupervised approach**. In Computer Vision (ICCV), 2011 IEEE International Conference on, pages 999–1006, Nov 2011.
-
-- Q. Qiu, J. Ni, and R. Chellappa. **Dictionary-based domain adaptation methods for the re-identiﬁcation of faces**. In Person Re-Identiﬁcation, pages 269–285. Springer, 2014.
+- Qiu, Qiang, Jie Ni, and Rama Chellappa. "**Dictionary-based domain adaptation methods for the re-identification of faces**." Person Re-Identification. Springer, London, 2014. 269-285.[[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.3851&rep=rep1&type=pdf)]
 
 - Zheng, Zhedong, Liang Zheng, and Yi Yang. "**Unlabeled samples generated by gan improve the person re-identification baseline in vitro**." Proceedings of the IEEE International Conference on Computer Vision. 2017.[[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf)]
 
-- Hoffman, Judy, et al. "**Cycada: Cycle-consistent adversarial domain adaptation." International conference on machine learning**. PMLR, 2018.[[Paper](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf)][[Code](https://github.com/jhoffman/cycada_release)]
+- Hoffman, Judy, et al. "**Cycada: Cycle-consistent adversarial domain adaptation**." International conference on machine learning. PMLR, 2018.[[Paper](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf)][[Code](https://github.com/jhoffman/cycada_release)]
 
 - Dong, Xuanyi, et al. "**Style aggregated network for facial landmark detection**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf)][[Code](https://github.com/D-X-Y/landmark-detection)]
 
@@ -300,15 +299,6 @@ UMDL（2016）
 
 - Farenzena, Michela, et al. "**Person re-identification by symmetry-driven accumulation of local features**." 2010 IEEE computer society conference on computer vision and pattern recognition. IEEE, 2010.[[Paper](http://profs.scienze.univr.it/~cristanm/Publications_files/CVPR2010_Cristani.pdf)]
 
-### ？？ 
-- Kodirov E, Xiang T, Fu ZY, Gong SG. **Person re-identification by unsupervised l2 graph learning**. European conference on computer vision, Springer, Cham, 2016: 178-195.
-
-- Kodirov E, Xiang T, Gong SG. **Dictionary learning with iterative laplacian regularisation for unsupervised person re-identification**. BMVC, 2015, 3: 8.
-
-- Zhao R, Ouyang WL, Wang XG. **Unsupervised salience learning for person re-identification**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2013: 3586-3593.
-
-- Yang Y, Wen LY, Lyu SW, Li SZ. **Unsupervised learning of multi-level descriptors for person re-identification**. Thirty-First AAAI Conference on Artificial Intelligence, 2017.
-
 ### Semi-supervised Learning or Few-shot Learning
 - Li, Jiawei, Andy J. Ma, and Pong C. Yuen. "**Semi-supervised region metric learning for person re-identification**." International Journal of Computer Vision 126.8 (2018): 855-874.
 
@@ -320,13 +310,11 @@ UMDL（2016）
 
 Comming soon...
 
-## Contributing
+## Maintainers
 
-Please help contribute this list by contacting [me](iminliu@yeah.net) or add [pull request](https://github.com/Yimin-Liu/Awesome-Cross-Domain-Person-Re-identification/pulls)
+[@YiminLiu](https://github.com/Yimin-Liu).
 
-Markdown format:
-```markdown
-- References. 
-  [[pdf]](link) 
-  [[code]](link)
-```
+## License
+
+[MIT](LICENSE) © Yimin Liu
+
