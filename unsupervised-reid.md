@@ -10,11 +10,11 @@
 - [Methods](#Methods)
 - [Paper list](#Paper-list)
     - [Papers Updated June 16.2021](#Papers-Updated-June-16.2021)
-- [Benchmarks]()
-  - [UDA re-ID](#Improving-Classification-And-Recong)
-  - [Pure re-ID](#Improving-Classification-And-Recong)
-- [Experience]()
-- [Contributing]()
+- [Benchmarks](#Benchmarks)
+  - [UDA re-ID](#UDA-re-ID)
+  - [Pure re-ID](#Pure-re-ID)
+- [Experience](#Experience)
+- [Contributing](#Contributing)
 
 ## Datasets
 
@@ -28,14 +28,14 @@
 - [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
     - [Image-style transfer based](#Domain-style-transfer-or-Data-Augmentation)
     - [Representation learning based](#Representation-learning-based)
-    - [Target domain clustering design]()
+    - [Target domain clustering design](#Target-domain-clustering)
 - [Pure re-ID](#Pure-re-ID)
     - [Handcraft feature](#Handcraft-feature)
     - [Tracklet based](#Tracklet-based)
     - [Clustering](#Clustering-based)
 
 ## Benchmarks
-### Unsupervised Domain adaptation re-ID benchmarks
+### UDA re-ID
 - [Duke to Market](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-duke-to)
 - [Market to Duke](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to)
 - [Market to MSMT](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-market-to-1)
@@ -45,6 +45,18 @@
 - Comming soon....
 
 ## Paper list
+- [Papers Updated June 16.2021](#Papers-Updated-June-16.2021)
+- [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
+    - [Image-style transfer based](#Domain-style-transfer-or-Data-Augmentation)
+    - [Representation learning based](#Representation-learning-based)
+    - [Target domain clustering design](#Target-domain-clustering)
+- [Pure re-ID](#Pure-re-ID)
+    - [Handcraft feature](#Handcraft-feature)
+    - [Tracklet based](#Tracklet-based)
+    - [Clustering](#Clustering-based)
+- [Other Unsupervised Learning research on Computer Vision](#Other-Unsupervised-Learning-research-on-Computer-Vision)   
+
+
 ### Papers Updated June 16.2021
 
 [1] **Unsupervised Pre-Training for Person Re-Identification**(CVPR2021)[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.pdf)]
@@ -132,6 +144,8 @@ Alignment**(AAAI2021)[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM
 
 [21] Wu, Jinlin, et al. "**Unsupervised graph association for person re-identification**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Unsupervised_Graph_Association_for_Person_Re-Identification_ICCV_2019_paper.pdf)][[Code](https://github.com/yichuan9527/Unsupervised-Graph-Association-for-Person-Re-identification)]
 
+#### Target domain clustering
+
 ### Pure re-ID
 
 #### Clustering-based
@@ -166,7 +180,7 @@ Yunpeng Zhai, Shijian Lu, Qixiang Ye, Xuebo Shan, Jie Chen, Rongrong Ji, and Yon
 
 [38] Li, Jianing, and Shiliang Zhang. "**Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification**." European Conference on Computer Vision. Springer, Cham, 2020.[[Paper](https://arxiv.org/pdf/2007.10854)]
 
-#### Tracklet-based re-ID
+#### Tracklet based
 
 [39] Wu, Guile, Xiatian Zhu, and Shaogang Gong. "**Tracklet self-supervised learning for unsupervised person re-identification**." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 07. 2020.[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6921/6775)]
 
