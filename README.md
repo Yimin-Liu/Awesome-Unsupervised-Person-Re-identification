@@ -191,6 +191,14 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Yang, Yang, et al. "**Unsupervised learning of multi-level descriptors for person re-identification**." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 31. No. 1. 2017.[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11224/11083)]
 
+- Kodirov, Elyor, Tao Xiang, and Shaogang Gong. "**Dictionary learning with iterative laplacian regularisation for unsupervised person re-identification**." BMVC. Vol. 3. 2015.[[Paper](http://www.bmva.org/bmvc/2015/papers/paper044/paper044.pdf)]
+
+- Farenzena, Michela, et al. "**Person re-identification by symmetry-driven accumulation of local features**." 2010 IEEE computer society conference on computer vision and pattern recognition. IEEE, 2010.[[Paper](http://profs.scienze.univr.it/~cristanm/Publications_files/CVPR2010_Cristani.pdf)]
+
+- Wang, Hanxiao, Shaogang Gong, and Tao Xiang. "**Unsupervised learning of generative topic saliency for person re-identification**." (2014).[[Paper](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/6442/GONGUnsupervisedLearning2014.pdf?sequence=2)]
+
+- Zhao, Rui, Wanli Oyang, and Xiaogang Wang. "**Person re-identification by saliency learning**." IEEE transactions on pattern analysis and machine intelligence 39.2 (2016): 356-370.[[Paper](https://arxiv.org/pdf/1412.1908)]
+
 #### Clustering-based
 
 - Wang, Dongkai, and Shiliang Zhang. "**Unsupervised person re-identification via multi-label classification**." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.[[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Unsupervised_Person_Re-Identification_via_Multi-Label_Classification_CVPR_2020_paper.pdf)]
@@ -270,8 +278,6 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Bousmalis, Konstantinos, et al. "**Domain separation networks**." arXiv preprint arXiv:1608.06019 (2016).[[Paper](https://arxiv.org/pdf/1608.06019)]
 
-- Zhao, Rui, Wanli Oyang, and Xiaogang Wang. "**Person re-identification by saliency learning**." IEEE transactions on pattern analysis and machine intelligence 39.2 (2016): 356-370.[[Paper](https://arxiv.org/pdf/1412.1908)]
-
 - Taigman, Yaniv, Adam Polyak, and Lior Wolf. "**Unsupervised cross-domain image generation**." arXiv preprint arXiv:1611.02200 (2016).[[Paper](https://arxiv.org/pdf/1611.02200.pdf?source=post_page---------------------------)][[Code](https://github.com/kaonashi-tyc/zi2zi)]
 
 - Johnson, Justin, Alexandre Alahi, and Li Fei-Fei. "**Perceptual losses for real-time style transfer and super-resolution**." European conference on computer vision. Springer, Cham, 2016.[[Paper](https://arxiv.org/pdf/1603.08155.pdf%7C)][[Code](https://github.com/DmitryUlyanov/texture_nets)]
@@ -285,8 +291,6 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Goodfellow I J, Pouget-Abadie J, Mirza M, et al. "**Generative adversarial nets**." Proceedings of the 27th International Conference on Neural Information Processing Systems. Cambridge: MIT Press, 2014:2672-2680.
 
-- Lisanti, Giuseppe, et al. "**Person re-identification by iterative re-weighted sparse ranking**." IEEE transactions on pattern analysis and machine intelligence 37.8 (2014): 1629-1642.[[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.7570&rep=rep1&type=pdf)]
-
 - Tzeng, Eric, et al. "**Deep domain confusion: Maximizing for domain invariance**." arXiv preprint arXiv:1412.3474 (2014).[[Paper](https://arxiv.org/pdf/1412.3474)][[Code](https://github.com/erlendd/ddan)]
 
 - Fernando, Basura, et al. "**Unsupervised visual domain adaptation using subspace alignment**." Proceedings of the IEEE international conference on computer vision. 2013.[[Paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Fernando_Unsupervised_Visual_Domain_2013_ICCV_paper.pdf)]
@@ -296,8 +300,6 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 - Gong, Boqing, et al. "**Geodesic flow kernel for unsupervised domain adaptation**." 2012 IEEE conference on computer vision and pattern recognition. IEEE, 2012.[[Paper](https://www.cs.utexas.edu/users/grauman/papers/subspace-cvpr2012.pdf)]
 
 - Ma, Bingpeng, Yu Su, and Frédéric Jurie. "**Local descriptors encoded by fisher vectors for person re-identification**." European conference on computer vision. Springer, Berlin, Heidelberg, 2012.[[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33863-2_41.pdf)]
-
-- Farenzena, Michela, et al. "**Person re-identification by symmetry-driven accumulation of local features**." 2010 IEEE computer society conference on computer vision and pattern recognition. IEEE, 2010.[[Paper](http://profs.scienze.univr.it/~cristanm/Publications_files/CVPR2010_Cristani.pdf)]
 
 ### Semi-supervised Learning or Few-shot Learning
 - Li, Jiawei, Andy J. Ma, and Pong C. Yuen. "**Semi-supervised region metric learning for person re-identification**." International Journal of Computer Vision 126.8 (2018): 855-874.
