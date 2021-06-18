@@ -65,7 +65,7 @@ Markdown format:
     - [Handcraft feature](#Handcraft-feature)
     - [Tracklet based](#Tracklet-based)
     - [Clustering](#Clustering-based)
-- [Other Unsupervised Learning research on Computer Vision](#Other-Unsupervised-Learning-research-on-Computer-Vision)   
+- [Other Unsupervised Learning research in Computer Vision](#Other-Unsupervised-Learning-research-in-Computer-Vision)   
 
 
 ### The latest paper released in 2021
@@ -241,7 +241,7 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 -	Xie, Qiaokang, et al. "**Progressive Unsupervised Person Re-identification by Tracklet Association with Spatio-Temporal Regularization**." IEEE Transactions on Multimedia
 
 
-### Other Unsupervised Learning research on Computer Vision or re-ID related works
+### Other Unsupervised Learning research in Computer Vision or re-ID related works
 
 - Fernando, Basura, et al. "**Unsupervised visual domain adaptation using subspace alignment**." Proceedings of the IEEE international conference on computer vision. 2013.[[Paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Fernando_Unsupervised_Visual_Domain_2013_ICCV_paper.pdf)]
 
