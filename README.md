@@ -70,6 +70,7 @@ Markdown format:
 
 ### The latest paper released in 2021
 
+- **Refining Pseudo Labels With Clustering Consensus Over Generations for Unsupervised Object Re-Identification**[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Refining_Pseudo_Labels_With_Clustering_Consensus_Over_Generations_for_Unsupervised_CVPR_2021_paper.pdf)]
 - **Unsupervised Pre-Training for Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.pdf)](CVPR2021)
 
 - **Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Unsupervised_Multi-Source_Domain_Adaptation_for_Person_Re-Identification_CVPR_2021_paper.pdf)](CVPR2021)
