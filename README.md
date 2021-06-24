@@ -176,6 +176,9 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Jin, Xin, et al. "**Global distance-distributions separation for unsupervised person re-identification**." European Conference on Computer Vision. Springer, Cham, 2020.[[Paper](https://arxiv.org/pdf/2006.00752)]
 
+- Wu, Si. "**An Attention-driven Two-stage Clustering Method for Unsupervised Person Re-Identification**." (2020).(ECCV2020)[[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730018.pdf)]
+
+
 ### Pure re-ID
 
 #### Handcraft feature
