@@ -67,6 +67,23 @@ Markdown format:
     - [Clustering](#Clustering-based)
 - [Other Unsupervised Learning research in Computer Vision](#Other-Unsupervised-Learning-research-in-Computer-Vision)   
 
+### Add some journal articles
+
+- **Attribute-Aligned Domain-Invariant Feature Learning for Unsupervised Domain Adaptation Person Re-Identiﬁcation**(TIFS2021)
+- **Complementary Pseudo Labels for Unsupervised Domain Adaptation On Person Re-Identiﬁcation**(TIP2021)
+- **Domain Adaptive Person Re-Identiﬁcation via Camera Style Generation and Label Propagation**(TIFS2020)
+- **Dynamic Graph Co-Matching for Unsupervised Video-Based Person Re-Identiﬁcation**(TIP2019)
+- **End-to-End Domain Adaptive Attention Network for Cross-Domain Person Re-Identiﬁcation**(TIFS2021)
+- **Hierarchical Connectivity-Centered Clustering for Unsupervised Domain Adaptation on Person Re-Identiﬁcation**(TIP2021)
+- **Homogeneous-to-Heterogeneous: Unsupervised Learning for RGB-Infrared Person Re-Identiﬁcation**(TIP2021)
+- **Unsupervised Domain Adaptation with Background Shift Mitigating for Person Re-Identiﬁcation**(IJCV2021)
+- **Leveraging Virtual and Real Person for Unsupervised Person Re-Identiﬁcation**(TMM2020)
+- **Part-aware Progressive Unsupervised Domain Adaptation for Person Re-Identiﬁcation**(TMM2021)
+- **Progressive Unsupervised Person Re-Identiﬁcation by Tracklet Association With Spatio-Temporal Regularization**(TMM2021)
+- **Self-Supervised Agent Learning for Unsupervised Cross-Domain Person Re-Identiﬁcation**(TIP2020)
+- **Self-Training With Progressive Representation Enhancement for Unsupervised Cross-Domain Person Re-Identiﬁcation**(TIP2021)
+- **Unsupervised Cross Domain Person Re-Identiﬁcation by Multi-Loss Optimization Learning**(TIP2021)
+- **Unsupervised Person Re-identiﬁcation via Cross-Camera Similarity Exploration**(TIP2020)
 
 ### The latest paper released in 2021
 
