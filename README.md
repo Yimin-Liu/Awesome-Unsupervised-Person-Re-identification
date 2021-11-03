@@ -74,7 +74,6 @@ Markdown format:
 - **Meta Pairwise Relationship Distillation for Unsupervised Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ji_Meta_Pairwise_Relationship_Distillation_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)]
 - **Towards Discriminative Representation Learning for Unsupervised Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Isobe_Towards_Discriminative_Representation_Learning_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)]
 - **IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID**[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_IDM_An_Intermediate_Domain_Module_for_Domain_Adaptive_Person_Re-ID_ICCV_2021_paper.pdf)]
-- 
 
 ### Add some journal articles
 
