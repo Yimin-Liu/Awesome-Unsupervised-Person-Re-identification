@@ -57,9 +57,9 @@ Markdown format:
 - [MSMT17]()
 
 ## Paper list
-- [Add papers published in AAAI2022](#Add papers published in AAAI2022)
-- [Add five papers published in ICCV2021](#Add five papers published in ICCV2021)
-- [Add some journal articles](#Add some journal articles)
+- [Add papers published in AAAI2022](#Add-papers-published-in-AAAI2022)
+- [Add five papers published in ICCV2021](#Add-five-papers-published-in-ICCV2021)
+- [Add some journal articles](#Add-some-journal-articles)
 - [The latest paper released in 2021](#The-latest-paper-released-in-2021)
 - [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
     - [Image-style transfer based](#Domain-style-transfer-or-Data-Augmentation)
