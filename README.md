@@ -57,6 +57,9 @@ Markdown format:
 - [MSMT17]()
 
 ## Paper list
+- [Add papers published in AAAI2022](#Add papers published in AAAI2022)
+- [Add five papers published in ICCV2021](#Add five papers published in ICCV2021)
+- [Add some journal articles](#Add some journal articles)
 - [The latest paper released in 2021](#The-latest-paper-released-in-2021)
 - [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
     - [Image-style transfer based](#Domain-style-transfer-or-Data-Augmentation)
@@ -67,6 +70,17 @@ Markdown format:
     - [Tracklet based](#Tracklet-based)
     - [Clustering](#Clustering-based)
 - [Other Unsupervised Learning research in Computer Vision](#Other-Unsupervised-Learning-research-in-Computer-Vision)   
+
+
+### Add papers published in AAAI2022
+
+- **Divide-and-Regroup Clustering for Domain Adaptive Person Re-Identification**
+- **Multi-Centroid Representation Network for Domain Adaptive Person Re-ID**
+- **SECRET: Self-Consistent Pseudo Label Refinement for Unsupervised Domain Adaptive Person Re-Identification**
+- **Debiased Batch Normalization via Gaussian Process for Generalizable Person Re-Identification**
+- **Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**
+- **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**
+- **Reliability Exploration with Self-Ensemble Learning for Domain Adaptive Person Re-Identification**
 
 ### Add five papers published in ICCV2021
 
