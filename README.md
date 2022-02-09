@@ -37,7 +37,7 @@ Markdown format:
     - [Image-style transfer based](#Domain-style-transfer-or-Data-Augmentation)
     - [Representation learning based](#Representation-learning-based)
     - [Target domain clustering design](#Target-domain-clustering)
-- [Pure re-ID](#Pure-re-ID)
+- [Pure Unsupervised re-ID](#Pure-re-ID)
     - [Handcraft feature](#Handcraft-feature)
     - [Tracklet based](#Tracklet-based)
     - [Clustering](#Clustering-based)
