@@ -75,11 +75,11 @@ Markdown format:
 ### Add papers published in AAAI2022
 
 - **Divide-and-Regroup Clustering for Domain Adaptive Person Re-Identification**
-- **Multi-Centroid Representation Network for Domain Adaptive Person Re-ID**
+- **Multi-Centroid Representation Network for Domain Adaptive Person Re-ID**[[Paper](https://arxiv.org/pdf/2112.11689.pdf)]
 - **SECRET: Self-Consistent Pseudo Label Refinement for Unsupervised Domain Adaptive Person Re-Identification**
-- **Debiased Batch Normalization via Gaussian Process for Generalizable Person Re-Identification**
-- **Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**
-- **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**
+- **Debiased Batch Normalization via Gaussian Process for Generalizable Person Re-Identification**[[Paper](https://arxiv.org/pdf/2203.01723.pdf)]
+- **Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**[[Paper](https://arxiv.org/pdf/2112.14025.pdf)]
+- **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**[[Paper](https://arxiv.org/pdf/2203.00672.pdf)]
 - **Reliability Exploration with Self-Ensemble Learning for Domain Adaptive Person Re-Identification**
 
 ### Add five papers published in ICCV2021
