@@ -57,8 +57,9 @@ Markdown format:
 - [MSMT17]()
 
 ## Paper list
+- [Add papers published in CVPR2022](#Add-papers-published-in-CVPR2022)
 - [Add papers published in AAAI2022](#Add-papers-published-in-AAAI2022)
-- [Add five papers published in ICCV2021](#Add-five-papers-published-in-ICCV2021)
+- [Add papers published in ICCV2021](#Add-papers-published-in-ICCV2021)
 - [Add some journal articles](#Add-some-journal-articles)
 - [The latest paper released in 2021](#The-latest-paper-released-in-2021)
 - [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
@@ -71,6 +72,11 @@ Markdown format:
     - [Clustering](#Clustering-based)
 - [Other Unsupervised Learning research in Computer Vision](#Other-Unsupervised-Learning-research-in-Computer-Vision)   
 
+### Add papers published in CVPR2022
+
+- **Part-based Pseudo Label Refinement for Unsupervised Person Re-identification**[[Paper](https://arxiv.org/pdf/2203.14675.pdf)][[Code](https://github.com/yoonkicho/PPLR?utm_source=catalyzex.com)]
+- **Implicit Sample Extension for Unsupervised Person Re-Identification**
+
 
 ### Add papers published in AAAI2022
 
@@ -82,7 +88,7 @@ Markdown format:
 - **Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**[[Paper](https://arxiv.org/pdf/2203.00672.pdf)]
 - **Reliability Exploration with Self-Ensemble Learning for Domain Adaptive Person Re-Identification**
 
-### Add five papers published in ICCV2021
+### Add papers published in ICCV2021
 
 - **Online Pseudo Label Generation by Hierarchical Cluster Dynamics for Adaptive Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Online_Pseudo_Label_Generation_by_Hierarchical_Cluster_Dynamics_for_Adaptive_ICCV_2021_paper.pdf)]
 - **ICE: Inter-Instance Contrastive Encoding for Unsupervised Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ICE_Inter-Instance_Contrastive_Encoding_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.pdf)]
