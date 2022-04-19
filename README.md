@@ -144,6 +144,8 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 
 - Li, Yu-Jhe, et al. "**Cross-dataset person re-identification via unsupervised pose disentanglement and adaptation**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.pdf)]
 
+- Ge Y, Zhu F, Chen D, et al. "**Self-paced contrastive learning with hybrid memory for domain adaptive object re-id[J]"**. Advances in Neural Information Processing Systems, 2020, 33: 11309-11321.[[Paper](https://proceedings.neurips.cc/paper/2020/file/821fa74b50ba3f7cba1e6c53e8fa6845-Paper.pdf)]
+
 - Liu, Jiawei, et al. "**Adaptive transfer network for cross-domain person re-identification**." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_Transfer_Network_for_Cross-Domain_Person_Re-Identification_CVPR_2019_paper.pdf)]
 
 - Zhong, Zhun, et al. "**Camstyle: A novel data augmentation method for person re-identification**." IEEE Transactions on Image Processing 28.3 (2018): 1176-1190.[[Paper](https://www.researchgate.net/profile/Zhedong-Zheng-2/publication/328158599_CamStyle_A_Novel_Data_Augmentation_Method_for_Person_Re-Identification/links/5f0d194292851c38a51cd847/CamStyle-A-Novel-Data-Augmentation-Method-for-Person-Re-Identification.pdf)]
