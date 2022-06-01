@@ -75,7 +75,7 @@ Markdown format:
 ### Add papers published in CVPR2022
 
 - **Part-based Pseudo Label Refinement for Unsupervised Person Re-identification**[[Paper](https://arxiv.org/pdf/2203.14675.pdf)][[Code](https://github.com/yoonkicho/PPLR?utm_source=catalyzex.com)]
-- **Implicit Sample Extension for Unsupervised Person Re-Identification**
+- **Implicit Sample Extension for Unsupervised Person Re-Identification**[[Paper](https://arxiv.org/pdf/2204.06892.pdf)]
 
 
 ### Add papers published in AAAI2022
