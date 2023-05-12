@@ -1,5 +1,14 @@
 # Awesome-Unsupervised-Person-Re-identification[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Unsupervised person re-identification is a computer vision task that involves identifying and matching individuals across different non-overlapping cameras or video frames without using any manual annotations or labeled data. The goal is to find the same person or object in different camera views or time instances, regardless of changes in lighting, pose, clothing, or camera viewpoints.
+
+In traditional supervised person re-identification, the models are trained using labeled data, where each person or object is manually annotated and assigned a unique identity. However, collecting such labeled data can be time-consuming and expensive. Unsupervised person re-identification aims to overcome this limitation by leveraging the unlabeled data available in abundance.
+
+In unsupervised person re-identification, the model learns to extract discriminative features from the input data without any explicit identity labels. The process typically involves clustering similar instances together and updating the model iteratively to improve the clustering performance. The idea is to group together instances that are likely to represent the same person or object, while separating instances from different individuals.
+
+Unsupervised person re-identification algorithms often utilize techniques such as unsupervised learning, clustering, domain adaptation, and self-supervised learning to discover and match identities. These methods help in learning robust representations that capture the underlying similarities and differences between individuals, enabling accurate matching across multiple cameras or frames in an unsupervised manner. （Quoted from ChatGPT）
+
+
 ## Contributing :punch:
 
 Please help contribute this list by contacting [me](iminliu@yeah.net) or add [pull request](https://github.com/Yimin-Liu/Awesome-Unsupervised-Person-Re-identification/pulls) :heart_eyes:
