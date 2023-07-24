@@ -1,6 +1,6 @@
 # Awesome-Unsupervised-Person-Re-identification[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Unsupervised person re-identification is a computer vision task that involves identifying and matching individuals across different non-overlapping cameras or video frames without using any manual annotations or labeled data. The goal is to find the same person or object in different camera views or time instances, regardless of changes in lighting, pose, clothing, or camera viewpoints.（Quoted from ChatGPT）
+Unsupervised person re-identification is a computer vision task that involves identifying and matching individuals across different non-overlapping cameras or video frames without using any manual annotations or labeled data. The goal is to find the same person or object in different camera views or time instances, regardless of changes in lighting, pose, clothing, or camera viewpoints.
 
 
 ## Contributing :punch:
