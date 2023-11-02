@@ -60,6 +60,7 @@ Markdown format:
 - [MSMT17]()
 
 ## Paper list
+- [Add papers published in CVPR2023](#Add-papers-published-in-CVPR2023)
 - [Add papers published in CVPR2022](#Add-papers-published-in-CVPR2022)
 - [Add papers published in AAAI2022](#Add-papers-published-in-AAAI2022)
 - [Add papers published in ICCV2021](#Add-papers-published-in-ICCV2021)
@@ -75,6 +76,10 @@ Markdown format:
     - [Clustering](#Clustering-based)
 - [Other Unsupervised Learning research in Computer Vision](#Other-Unsupervised-Learning-research-in-Computer-Vision)   
 
+### Add papers published in CVPR2023
+
+- **Unsupervised Visible-Infrared Person Re-Identification via Progressive Graph Matching and Alternate Learning**[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Unsupervised_Visible-Infrared_Person_Re-Identification_via_Progressive_Graph_Matching_and_Alternate_CVPR_2023_paper.pdf)]
+  
 ### Add papers published in CVPR2022
 
 - **Part-based Pseudo Label Refinement for Unsupervised Person Re-identification**[[Paper](https://arxiv.org/pdf/2203.14675.pdf)][[Code](https://github.com/yoonkicho/PPLR?utm_source=catalyzex.com)]
