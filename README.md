@@ -60,6 +60,7 @@ Markdown format:
 - [MSMT17]()
 
 ## Paper list
+- [Add papers published in ICME2023](#Add-papers-published-in-ICME2023)
 - [Add papers published in ICCV2023](#Add-papers-published-in-ICCV2023)
 - [Add papers published in CVPR2023](#Add-papers-published-in-CVPR2023)
 - [Add papers published in CVPR2022](#Add-papers-published-in-CVPR2022)
@@ -77,6 +78,9 @@ Markdown format:
     - [Clustering](#Clustering-based)
 - [Other Unsupervised Learning research in Computer Vision](#Other-Unsupervised-Learning-research-in-Computer-Vision)
 
+### Add papers published in ICME2023
+- **Camera Proxy based Contrastive Learning with Hard Sampling for Unsupervised Person Re-identification**[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10219979&casa_token=Orp2k04uCLsAAAAA:XRC9p3D0j2PZoisCZR6qUPLHCEokBhoz8o-mPD2KBEvQon3nQC8VUS_y2w1z09pc5BpNLEJUhg&tag=1)]
+  
 ### Add papers published in ICCV2023
 
 - **Towards Grand Unified Representation Learning for Unsupervised Visible-Infrared Person Re-Identification**[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Towards_Grand_Unified_Representation_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)]
