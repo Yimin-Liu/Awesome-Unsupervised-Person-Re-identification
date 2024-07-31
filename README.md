@@ -84,20 +84,20 @@ Markdown format:
 
 ### Add recent papers published in top-tier venues
 
--- **Improving Consistency of Proxy-Level Contrastive Learning for Unsupervised Person Re-Identification**(TIFS2024)
--- **Transfer easy to hard: Adversarial contrastive feature learning for unsupervised person re-identification**(PR2024)
--- **Hierarchical Camera-Aware Contrast Extension for Unsupervised Person Re-Identification**(TMM2024)
--- **Dual Knowledge Distillation on Multiview Pseudo Labels for Unsupervised Person Re-Identification**(TMM2024)
--- **Learning to purification for unsupervised person re-identification**(TIP2023)
--- **A real-time memory updating strategy for unsupervised person re-identification**(TIP2023)
--- **Adaptive memorization with group labels for unsupervised person re-identification**(TCSVT2023)
--- **Leveraging Ensembles and Self-Supervised Learning for Fully-Unsupervised Person Re-Identification and Text Authorship Attribution**(TIFS2023)
--- **Cluster-Guided Asymmetric Contrastive Learning for Unsupervised Person Re-Identification**(TIP2022)
--- **Hybrid dynamic contrast and probability distillation for unsupervised person re-id**(TIP2022)
--- **Global relationaware contrast learning for unsupervised person re-identification**(TCSVT2022)
--- **Rethinking sampling strategies for unsupervised person re-identification**(TIP2022)
--- **Offline-Online Associated Camera-Aware Proxies for Unsupervised Person Re-Identification**(TIP2022)
--- **Pseudo-pair based self-similarity learning for unsupervised person re-identification**(TIP2022)
+- **Improving Consistency of Proxy-Level Contrastive Learning for Unsupervised Person Re-Identification**(TIFS2024)
+- **Transfer easy to hard: Adversarial contrastive feature learning for unsupervised person re-identification**(PR2024)
+- **Hierarchical Camera-Aware Contrast Extension for Unsupervised Person Re-Identification**(TMM2024)
+- **Dual Knowledge Distillation on Multiview Pseudo Labels for Unsupervised Person Re-Identification**(TMM2024)
+- **Learning to purification for unsupervised person re-identification**(TIP2023)
+- **A real-time memory updating strategy for unsupervised person re-identification**(TIP2023)
+- **Adaptive memorization with group labels for unsupervised person re-identification**(TCSVT2023)
+- **Leveraging Ensembles and Self-Supervised Learning for Fully-Unsupervised Person Re-Identification and Text Authorship Attribution**(TIFS2023)
+- **Cluster-Guided Asymmetric Contrastive Learning for Unsupervised Person Re-Identification**(TIP2022)
+- **Hybrid dynamic contrast and probability distillation for unsupervised person re-id**(TIP2022)
+- **Global relationaware contrast learning for unsupervised person re-identification**(TCSVT2022)
+- **Rethinking sampling strategies for unsupervised person re-identification**(TIP2022)
+- **Offline-Online Associated Camera-Aware Proxies for Unsupervised Person Re-Identification**(TIP2022)
+- **Pseudo-pair based self-similarity learning for unsupervised person re-identification**(TIP2022)
 
 ### Add papers published in ACMMM2023
 
