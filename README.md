@@ -83,6 +83,7 @@ Markdown format:
 
 
 ### Add recent papers published in top-tier venues
+
 -- **Improving Consistency of Proxy-Level Contrastive Learning for Unsupervised Person Re-Identification**(TIFS2024)
 -- **Transfer easy to hard: Adversarial contrastive feature learning for unsupervised person re-identification**(PR2024)
 -- **Hierarchical Camera-Aware Contrast Extension for Unsupervised Person Re-Identification**(TMM2024)
