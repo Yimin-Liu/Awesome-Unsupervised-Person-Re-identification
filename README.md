@@ -187,6 +187,10 @@ Alignment**[[Paper](https://www.aaai.org/AAAI21Papers/AAAI-4639.ZhangM.pdf)](AAA
 ### Unsupervised Domain Adaptation
 #### Domain style transfer or Data Augmentation
 
+- Pulakurthi, Prasanna Reddy, et al. "Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation." IEEE International Conference on Image Processing (ICIP), 2025. [[Paper]](https://doi.org/10.1109/ICIP55913.2025.11084606) [[Code]](https://github.com/PrasannaPulakurthi/SPM)
+
+- Pulakurthi, Prasanna Reddy, et al. "Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data." Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications III. Vol. 13459. SPIE, 2025. [[Paper]](https://doi.org/10.1117/12.3058627) [[Code]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
+
 - Li, Yu-Jhe, et al. "**Cross-dataset person re-identification via unsupervised pose disentanglement and adaptation**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.[[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.pdf)]
 
 - Ge Y, Zhu F, Chen D, et al. "**Self-paced contrastive learning with hybrid memory for domain adaptive object re-id"**. Advances in Neural Information Processing Systems, 2020, 33: 11309-11321.[[Paper](https://proceedings.neurips.cc/paper/2020/file/821fa74b50ba3f7cba1e6c53e8fa6845-Paper.pdf)]
